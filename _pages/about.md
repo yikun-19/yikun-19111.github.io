@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/91b8d2e6-3493-468a-80a3-dcc292b23440)---
 permalink: /
 title: ""
 excerpt: ""
@@ -25,6 +25,7 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 # 🔥 News
 - *2025.03.08*: Our 🤗<a href='https://huggingface.co/fm-universe'>Huggingface repo</a> reached 1.6k+ downloads. Contributions are welcomed 👉 <a href='https://huggingface.co/fm-universe'>[Link]</a> The Chinese <a href='https://mp.weixin.qq.com/s/oyhICTRo2fJL5MZkDrutXg'>article</a> has reached 37k+ reads👀 and 2k+ forwards↗️. Full paper 👉 <a href='https://arxiv.org/abs/2501.16207'>[Paper]</a>
 - *2025.02.12*: &nbsp;🎉🎉 Our paper 📑 "SemBIC: Semantic-aware Identification of Bug-inducing Commits" has been accepted to **FSE 2025**. Congrats to Xiao!
+- *2025.02.07*: &nbsp;🎉🎉 Honored to appear in CSE Department News page, titled "Dr. Jialun Cao Receives ACM SIGSOFT Outstanding Dissertation Award"!
 - *2025.02.02*: &nbsp;🎉🎉 Our paper 📑 "A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair" has been accepted to **JASE 2025**. Finally!
 - *2025.01.23*: &nbsp;🎉🎉 Glad to receive the prestigious 🏆<a href='https://www2.sigsoft.org/awards/dissertation/'><strong>ACM SIGSOFT 2025 Outstanding Dissertation Award</strong></a>! 
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/pdf/2408.13204'>DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation</a>" has been accepted to **AAAI 2025**. Congrats to Qiming!
@@ -33,31 +34,53 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### 2025
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+📚 **Jialun Cao**, Meiziniu Li, Ming Wen, Shing-chi Cheung. *A study on prompt design, advantages and limitations of chatgpt for deep learning program repair*. In Journal of Automated Software Engineering (**ASEJ**). 🔗[[paper]](https://arxiv.org/abs/2304.08191)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+📄 Xiao Chen, Hengcheng Zhu, **Jialun Cao (Corresponding)**, Ming Wen, Shing-Chi Cheung (Corresponding). *SemBIC: Semantic-aware Identification of Bug-inducing Commits*. In **FSE** 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+📄 Qiming Zhu, **Jialun Cao (Co-1st)**, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung. _DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation._ In **AAAI** 2025. 🔗[[Paper]](https://arxiv.org/pdf/2408.13204) 🎯[[Leaderboard]](https://domaineval.github.io/leaderboard.html) 💻 [[Github]](https://github.com/domaineval/DomainEval) 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+📄 Mengyang Wu, Yuzhi Zhao, **Jialun Cao**, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. _ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation._ In AAAI 2025. 🔗[[Paper]](https://arxiv.org/abs/2412.18216)
+
+📝 **Jialun Cao**, Yuk-Kit Chan*, Zixuan Ling* , Wenxuan Wang†, Shuqing Li, Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung. _How Should We Build A Benchmark? Revisiting 274 Code-Related Benchmarks For LLMs_ In arXiv 2025. 🔗[[Paper]](https://arxiv.org/pdf/2501.10711)
+
+📝 **Jialun Cao**, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian. _From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs_ In arXiv 2025. 🔗[[Paper]](https://arxiv.org/abs/2501.16207) 🤗 [[Huggingface]](https://huggingface.co/fm-universe)
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* ACM SIGSOFT Outstanding Doctoral Dissertation Award (1 or 2 award receivers worldwide per year)
+- *2024* Shortlisted Participant for the Rising Stars Women in Engineering Workshop at Asian Deans' Forum
+- *2024* Hong Kong Postgraduate Scholarship
+- *2024* ACM SIGSOFT CAPS Travel Grant (ASE 2024)
+- *2023* ACM SIGSOFT CAPS Travel Grant (ESEC/FSE 2023)
+- *2019 - 2023*: Huawei Fellowship Scholarship
+- *2017*: China National Scholarship (Postgraduate, Rank 1/106, Top 1%)
+- *2014*: China National Scholarship (Undergraduate, Rank 1/52, Top 2%)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 🎓 Educations
+- *2019.09 - 2024.03*, **Ph.D**, The Hong Kong University of Science and Technology
+- *2016.09 - 2019.06*, **M.S.**, State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences
+- *2012.09 - 2016.06*, **B.S.**, Shandong University
+
+
+# 👩🏻‍💻 Working Experiment
+- *2024.08 - now*, **Research Assistant Professor** at the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology
+- *2024.04 - 2024.07*, **Postdoctoral Fellow** at HKUST, working with <a href="https://www.cse.ust.hk/faculty/scc/">Prof. S.C. Cheung</a>
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.01*, **From Benchmarks to Practice: A Preliminary Study on the Code Capabilities of Large Language Models.** In the Next Era of AI-assisted R&D Seminar (2025华为AI辅助研发Next研讨会) by Huawei, Hong Kong. 📽️[[Recording]](https://www.chaspark.com/#/live/1095803543143456768?videoId=1100606948265017344)
+- *2024.11*, **Is Large Language Model a Rescue for Code Generation & Code Reasoning?** In Trusted Large Language Model Evaluation and Open-Source Technology Forum by CCF China Open Source Conference. 
+- *2024.10*, **Exploring Automatic Testing and Verification for Software Programs using Large Language Models.** In High Trust Software Engineering Technology Laboratory, Guangzhou Research Institute, Xidian University.
+- *2024.08*, **Trusted Architecture of Intelligent CPS Systems**. Micro-Forum of Intelligent Software Development hosted by Fudan University. 🔗 [[Link]](https://mp.weixin.qq.com/s/03JZNjTbinRYmDirEapBoA)
+- *2024.08*, **Can AI be a Panacea for Software Reliability? Exploring Automatic Testing and Verification for Software Programs.** In the Software Systems Engineering Group at University College London.
+- *2024.07*, **Concerned with Data Contamination? Assessing Countermeasures in Code Language Model**. In the IEEE World Congress on Service - Cloud & AI Symposium
+- *2024.05*, **From Requirement to Formal Specification and Model Generation via Large Language Models** In the Formal Methods Committee Strategic Seminar (2024 CCF形式化方法专委会战略研讨会——形式化方法与人工智能的交叉融合：机遇与挑战) hosted in China Computer Federation (CCF). 📽️[[Recording]](https://www.chaspark.com/#/live/994058991643467776?videoId=1006392740579553280) 🪧[[News]](https://www.ccf.org.cn/Chapters/TC/News_/2024-05-12/821601.shtml)
+- *2023.12*, **Crafting Future: A Dancer's Leap into Computer Science.** The 1st Forum for Women Scholars in Software Engineering hosted by ChinaSoft.
+- 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
