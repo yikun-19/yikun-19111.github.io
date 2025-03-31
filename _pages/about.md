@@ -140,7 +140,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 - *2012.09 - 2016.06*, **B.S.**, Shandong University.
 
 
-# 👩🏻‍💻 Working Experiment
+# 👩🏻‍💻 Working Experience
 - *2024.08 - now*, **Research Assistant Professor** at the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology
 - *2024.04 - 2024.07*, **Postdoctoral Fellow** at HKUST, working with <strong href="https://www.cse.ust.hk/faculty/scc/">Prof. S.C. Cheung</a>
 - *2023.07 - 2023.09*, **Intern** at huawei (Hong Kong) - Fermat Lab.
