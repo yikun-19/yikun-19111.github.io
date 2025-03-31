@@ -31,6 +31,11 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/pdf/2408.13204'>DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation</a>" has been accepted to **AAAI 2025**. Congrats to Qiming!
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/abs/2412.18216'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</a>" has been accepted to **AAAI 2025**. Congrats to Mengyang!
 
+# 🌍 Visiting Experience
+
+- *2024.10* I am honored to visit [**Prof. Michael Pradel**](https://software-lab.org/people/Michael_Pradel.html) at the University of Stuttgart.
+- 2024.03. I am honored to visit [**Prof. Pinjia He**](https://pinjiahe.github.io/) at The Chinese University of Hong Kong, Shenzhen.
+
 
 # 📝 Publications 
 
@@ -38,11 +43,11 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 📚 **Jialun Cao**, Meiziniu Li, Ming Wen, Shing-chi Cheung. *A study on prompt design, advantages and limitations of chatgpt for deep learning program repair*. In Journal of Automated Software Engineering (**ASEJ**). 🔗[[paper]](https://arxiv.org/abs/2304.08191)
 
-📄 Xiao Chen, Hengcheng Zhu, **Jialun Cao (Corresponding)**, Ming Wen, Shing-Chi Cheung (Corresponding). *SemBIC: Semantic-aware Identification of Bug-inducing Commits*. In **FSE** 2025.
+📄 Xiao Chen, Hengcheng Zhu, **Jialun Cao (Corresponding)**, Ming Wen, Shing-Chi Cheung (Corresponding). *SemBIC: Semantic-aware Identification of Bug-inducing Commits*. In the ACM International Conference on the Foundations of Software Engineering (**FSE 2025**).
 
-📄 Qiming Zhu, **Jialun Cao (Co-1st)**, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung. _DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation._ In **AAAI** 2025. 🔗[[Paper]](https://arxiv.org/pdf/2408.13204) 🎯[[Leaderboard]](https://domaineval.github.io/leaderboard.html) 💻 [[Github]](https://github.com/domaineval/DomainEval) 
+📄 Qiming Zhu, **Jialun Cao (Co-1st)**, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung. _DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation._ In 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**). 🔗[[Paper]](https://arxiv.org/pdf/2408.13204) 🎯[[Leaderboard]](https://domaineval.github.io/leaderboard.html) 💻 [[Github]](https://github.com/domaineval/DomainEval) 
 
-📄 Mengyang Wu, Yuzhi Zhao, **Jialun Cao**, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. _ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation._ In AAAI 2025. 🔗[[Paper]](https://arxiv.org/abs/2412.18216)
+📄 Mengyang Wu, Yuzhi Zhao, **Jialun Cao**, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. _ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation._ In 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**). 🔗[[Paper]](https://arxiv.org/abs/2412.18216)
 
 📝 **Jialun Cao**, Yuk-Kit Chan*, Zixuan Ling* , Wenxuan Wang†, Shuqing Li, Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung. _How Should We Build A Benchmark? Revisiting 274 Code-Related Benchmarks For LLMs_. In arXiv 2025. 🔗[[Paper]](https://arxiv.org/pdf/2501.10711)
 
@@ -111,9 +116,9 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 📄 **Jialun Cao**, Yongjian Li, Jun Pang. _L-CMP: an automatic learning-based parameterized verification tool_. In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering (**ASE 2018**). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3238147.3240487) 💻 [[Github]](https://github.com/ArabelaTso/Learning-Based-ParaVerifer)  🎬 [[Video]](https://www.youtube.com/watch?v=6Dl2HiiiS4E&list=LL&index=8&t=1s&ab_channel=BellaTSO)
 
-# Teaching
+# 💯 Teaching
 
-- _2025 Spring_, **Instructor** in COMP 1021 - Introduction to Computer Science. 
+- _2025 Spring_, **Instructor** in COMP 1021 - Introduction to Computer Science. _Course materials_ ↗️ [[Link]](https://github.com/ArabelaTso/COMP1021-2025S)
 - _2023 Fall_, **Teaching Assistant** in COMP1021 - Introduction to Computer Science.
 - _2020 Fall_, **Teaching Assistant** in COMP 3021 - Java Programming.
 - _2020 Spring_, **Teaching Assistant** in COMP 3021 - Java Programming.
@@ -142,6 +147,43 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 - *2022.09 - 2023.01*, **Intern** at Huawei - Trusted Software Engineering and Open Source Laboratory.
 - *2021.09 - 2022.08*, **Intern** at Huawei - Theory Lab.
 
+# 🪴 Service
+**Award committee member**:
+- ACM SIGSOFT [Outstanding Research Award 2025](https://www2.sigsoft.org/awards/outstandingresearch/)
+- ACM SIGSOFT [Distinguished Service Award 2025](https://www2.sigsoft.org/awards/distinguishedservice/)
+- ACM SIGSOFT [Influential Educator Award 2025](https://www2.sigsoft.org/awards/influentialeducator/)
+
+**Program committee member** 
+- **ICSE 2026** [research track](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
+- **ICSE 2025** [research track](https://conf.researchr.org/committee/icse-2025/icse-2025-research-track-research-track)
+- **ASE 2025** [research track](https://conf.researchr.org/committee/ase-2025/ase-2025-papers-program-committee)
+- **FSE 2025** [research track](https://conf.researchr.org/committee/fse-2025/fse-2025-papers-program-committee)
+- **ISSRE 2024** [research track](https://issre.github.io/2024/committee_research-PC.html)
+- Workshop on Responsible AI Engineering 2025 ([RAIE](https://conf.researchr.org/committee/icse-2025/raie-2025-papers-program-committee))
+- APSEC 2025 [Technical Track](https://conf.researchr.org/committee/apsec-2025/apsec-2025-papers-program-committee)
+- Internetware 2025 [Research Track](https://conf.researchr.org/committee/internetware-2025/internetware-2025-research-track-cuiyun-gao)
+- CAIN 2025 [Research and Experience Papers-track](https://conf.researchr.org/committee/cain-2025/cain-2025-call-for-papers-program-committee)
+- Forge 2025 [Research track](https://conf.researchr.org/committee/forge-2025/forge-2025-papers-program-committee) and [Data and Benchmarking-track](https://conf.researchr.org/committee/forge-2025/forge-2025-benchmarking-organization-committee)
+- SANER 2024 [Short Papers and Posters Track track](https://conf.researchr.org/committee/saner-2025/saner-2025-short-papers-and-posters-track-program-commitee)
+- APSEC 2024 [Technical Track](https://conf.researchr.org/committee/apsec-2024/apsec-2024-technical-track-program-committee)
+- Internetware 2024 [Research track](https://conf.researchr.org/committee/internetware-2024/internetware-2024-papers-program-committee)
+- AIware 2024 [Main track](https://2024.aiwareconf.org/committee/aiware-2024-papers-program-committee)
+- Forge 2024 [Research track](https://conf.researchr.org/committee/forge-2024/forge-2024-papers-program-committee)
+
+
+**Session chair**
+- ASE 2024 - Session Chair of [Code generation 3](https://conf.researchr.org/track/ase-2024/ase-2024-research)
+- ASE 2024 - Session Chair of [Testing 1](https://conf.researchr.org/track/ase-2024/ase-2024-research)
+- Internetware 2024 - Session Chair of Session 6: [Code Generation and Transformation](https://conf.researchr.org/track/internetware-2024/internetware-2024-research) 
+
+**Reviewer**
+- ACM Transactions on Software Engineering and Methodology (TOSEM)
+- IEEE Transactions on Software Engineering (TSE)
+- Empirical Software Engineering (EMSE)
+- Journal of Automated Software Engineering (JASE)
+- Journal of Software: Evolution and Process (JSME)
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+- IEEE Transactions on Mobile Computing (TMC)	
 
 # 💬 Invited Talks
 - *2025.01*, **From Benchmarks to Practice: A Preliminary Study on the Code Capabilities of Large Language Models.** In the Next Era of AI-assisted R&D Seminar (2025华为AI辅助研发Next研讨会) by Huawei, Hong Kong. 📽️[[Recording]](https://www.chaspark.com/#/live/1095803543143456768?videoId=1100606948265017344)
