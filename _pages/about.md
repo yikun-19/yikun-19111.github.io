@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jialun CAO received her PhD degree from the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a>, under the supervision of <a href="https://www.cse.ust.hk/faculty/scc/">Prof. S.C. Cheung</a>. She is now a Research Assistant Professor in HKUST.
+Jialun CAO received her PhD degree from the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a>, under the supervision of <a href="https://www.cse.ust.hk/faculty/scc/">Prof. S.C. Cheung</a>. She is now a **Research Assistant Professor** in HKUST.
 
 Her research interests lie in the intersection of <strong>Software Engineering (SE) and Large Language Models (LLMs)</strong>, with an emphasis on LLM4SE, and LLM Evaluation. She has published more than 20 papers at the top conferences and journals, including ICSE, FSE, ASE, TOSEM, CAV, Usenix Security, AAAI, etc. She serves as a program committee member in top conferences such as ICSE, FSE, and ASE, SANER, Internetware, APSEC, etc; and is a reviewer for top journals including TOSEM, TSE, EmSE, etc. 
 
-
 # 🔥 News
+- *2025.03.31*: &nbsp;🎉🎉 Our paper "CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit" has been accepted by Internetware 2025. Congrats!
 - *2025.03.08*: Our 🤗<a href='https://huggingface.co/fm-universe'>Huggingface repo</a> reached 1.6k+ downloads. Contributions are welcomed 👉 <a href='https://huggingface.co/fm-universe'>[Link]</a> The Chinese <a href='https://mp.weixin.qq.com/s/oyhICTRo2fJL5MZkDrutXg'>article</a> has reached 37k+ reads👀 and 2k+ forwards↗️. Full paper 👉 <a href='https://arxiv.org/abs/2501.16207'>[Paper]</a>
 - *2025.02.12*: &nbsp;🎉🎉 Our paper 📑 "SemBIC: Semantic-aware Identification of Bug-inducing Commits" has been accepted to **FSE 2025**. Congrats to Xiao!
 - *2025.02.07*: &nbsp;🎉🎉 Honored to appear in CSE Department News page, titled "Dr. Jialun Cao Receives ACM SIGSOFT Outstanding Dissertation Award" at 🔗[[Paper]](https://cse.hkust.edu.hk/News/SIGSOFT2025/)
 - *2025.02.02*: &nbsp;🎉🎉 Our paper 📑 "A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair" has been accepted to **JASE 2025**. Finally!
-- *2025.01.23*: &nbsp;🎉🎉 I am honored to receive the prestigious 🏆<a href='https://www2.sigsoft.org/awards/dissertation/'><strong>ACM SIGSOFT 2025 Outstanding Dissertation Award</strong></a>! 
+- *2025.01.23*: &nbsp;🎉🎉 I am honored to receive the prestigious 🏆<a href='https://www2.sigsoft.org/awards/dissertation/'><strong style="color:#D20F39">ACM SIGSOFT 2025 Outstanding Dissertation Award</strong></a>! 
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/pdf/2408.13204'>DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation</a>" has been accepted to **AAAI 2025**. Congrats to Qiming!
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/abs/2412.18216'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</a>" has been accepted to **AAAI 2025**. Congrats to Mengyang!
 
@@ -40,6 +40,8 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 # 📝 Publications 
 
 ### 2025
+
+📄 **Jialun Cao**, Songqiang Chen, Wuqi Zhang, Hau Ching Lo, Shing-Chi Cheung. _CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit._ In Internetware 2025. 🔗[[Paper]](https://arxiv.org/abs/2411.10842) 💻 [[Github]](https://github.com/ArabelaTso/CodeCleaner-v1)
 
 📚 **Jialun Cao**, Meiziniu Li, Ming Wen, Shing-chi Cheung. *A study on prompt design, advantages and limitations of chatgpt for deep learning program repair*. In Journal of Automated Software Engineering (**ASEJ**). 🔗[[paper]](https://arxiv.org/abs/2304.08191)
 
@@ -55,8 +57,6 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 📝 **Jialun Cao**, Wuqi Zhang, Shing-Chi Cheung. _Concerned with Data Contamination? Assessing Countermeasures in Code Language Model_. In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2403.16898)
 
-📝 **Jialun Cao**, Songqiang Chen, Wuqi Zhang, Hau Ching Lo, Shing-Chi Cheung. _CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit._ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2411.10842) 💻 [[Github]](https://github.com/ArabelaTso/CodeCleaner-v1)
-
 📝 Meiziniu Li, Dongze Li, Jianmeng Liu, **Jialun Cao**, Yongqiang Tian, Shing-Chi Cheung. DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis. In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2406.07944)
 
 📝 Jingyi Chen, Songqiang Chen, **Jialun Cao (Corresponding)**, Jiasi Shen (Corresponding), Shing-Chi Cheung. _When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?_ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2503.15231)
@@ -65,7 +65,7 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 📄 Jialun Cao*, Zhiyong Chen*, Jiarong Wu, Shing-chi Cheung, Chang Xu. _JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models_. In the 39th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2024**). 🔗[[Paper]](https://arxiv.org/abs/2406.12902) 🎯[[Leaderboard]](https://java-bench.github.io/leaderboard.html) 💻 [[Github]](https://github.com/java-bench/JavaBench) 
 
-📄 🏆 (**Distinguished paper award**) Zongze Jiang, Ming Wen, Jialun Cao, Xuanhua Shi and Hai Jin. _Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation_. In the 39th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2024**). 🔗[[Paper]](https://github.com/CGCL-codes/PathEval/blob/main/PathEval_Preprint.pdf) 💻 [[Github]](https://github.com/CGCL-codes/PathEval) 
+📄 🏆 <a style="color:red">**Distinguished paper award**</a>. Zongze Jiang, Ming Wen, Jialun Cao, Xuanhua Shi and Hai Jin. _Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation_. In the 39th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2024**). 🔗[[Paper]](https://github.com/CGCL-codes/PathEval/blob/main/PathEval_Preprint.pdf) 💻 [[Github]](https://github.com/CGCL-codes/PathEval) 
 
 📄 Congying Xu, Songqiang Chen, Jiarong Wu, Valerio Terragni, Shing-chi Cheung (Corresponding), Hengcheng Zhu, **Jialun Cao (Corresponding)**. _MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing._ In the 39th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2024**). 🔗[[Paper]](https://arxiv.org/pdf/2408.15815) 
 
