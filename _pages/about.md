@@ -34,7 +34,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 # 🌍 Visiting Experience
 
 - *2024.10* I am honored to visit [**Prof. Michael Pradel**](https://software-lab.org/people/Michael_Pradel.html) at the University of Stuttgart.
-- *2024.03* I am honored to visit [**Prof. Pinjia He**](https://pinjiahe.github.io/) at The Chinese University of Hong Kong, Shenzhen.
+- *2024.03* I am honored to visit [**Prof. Pinjia He**](https://pinjiahe.github.io/) at the Chinese University of Hong Kong, Shenzhen.
 
 
 # 📝 Publications 
@@ -187,6 +187,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 # 💬 Invited Talks
 - *2025.01*, **From Benchmarks to Practice: A Preliminary Study on the Code Capabilities of Large Language Models.** In the Next Era of AI-assisted R&D Seminar (2025华为AI辅助研发Next研讨会) by Huawei, Hong Kong. 📽️[[Recording]](https://www.chaspark.com/#/live/1095803543143456768?videoId=1100606948265017344)
+- *2025.01*, **From Requirement to Formal Specification andModel Generation via Large Language Models**. In Zhejiang University (Online).
 - *2024.11*, **Is Large Language Model a Rescue for Code Generation & Code Reasoning?** In Trusted Large Language Model Evaluation and Open-Source Technology Forum by CCF China Open Source Conference. 
 - *2024.10*, **Exploring Automatic Testing and Verification for Software Programs using Large Language Models.** In High Trust Software Engineering Technology Laboratory, Guangzhou Research Institute, Xidian University.
 - *2024.08*, **Trusted Architecture of Intelligent CPS Systems**. Micro-Forum of Intelligent Software Development hosted by Fudan University. 🔗 [[Link]](https://mp.weixin.qq.com/s/03JZNjTbinRYmDirEapBoA)
