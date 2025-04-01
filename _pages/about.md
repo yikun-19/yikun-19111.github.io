@@ -22,14 +22,14 @@ Jialun CAO received her PhD degree from the Department of Computer Science and E
 Her research interests lie in the intersection of <a>Software Engineering (SE) and Large Language Models (LLMs)</a>, with an emphasis on LLM4SE, and LLM Evaluation. She has published more than 20 papers at the top conferences and journals, including ICSE, FSE, ASE, TOSEM, CAV, Usenix Security, AAAI, etc. She serves as a program committee member in top conferences such as ICSE, FSE, and ASE, SANER, Internetware, APSEC, etc; and is a reviewer for top journals including TOSEM, TSE, EmSE, etc. 
 
 # 🔥 News
-- *2025.03.31*: &nbsp;🎉🎉 Our paper "CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit" has been accepted by Internetware 2025. Congrats!
+- *2025.03.31*: &nbsp;🎉🎉 Our paper "[CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit](https://arxiv.org/abs/2411.10842)" has been accepted by Internetware 2025. Congrats!
 - *2025.03.08*: Our 🤗<a href='https://huggingface.co/fm-universe'>Huggingface repo</a> reached 1.6k+ downloads. Contributions are welcomed 👉 <a href='https://huggingface.co/fm-universe'>[Link]</a> The Chinese <a href='https://mp.weixin.qq.com/s/oyhICTRo2fJL5MZkDrutXg'>article</a> has reached 37k+ reads👀 and 2k+ forwards↗️. Full paper 👉 <a href='https://arxiv.org/abs/2501.16207'>[Paper]</a>
 - *2025.02.12*: &nbsp;🎉🎉 Our paper 📑 "SemBIC: Semantic-aware Identification of Bug-inducing Commits" has been accepted to **FSE 2025**. Congrats to Xiao!
-- *2025.02.07*: &nbsp;🎉🎉 Honored to appear in CSE Department News page, titled "Dr. Jialun Cao Receives ACM SIGSOFT Outstanding Dissertation Award" at 🔗[[Paper]](https://cse.hkust.edu.hk/News/SIGSOFT2025/)
+- *2025.02.07*: &nbsp;🎉🎉 Honored to appear in CSE Department News page, titled "Dr. Jialun Cao Receives ACM SIGSOFT Outstanding Dissertation Award" at 🔗[[News]](https://cse.hkust.edu.hk/News/SIGSOFT2025/)
 - *2025.02.02*: &nbsp;🎉🎉 Our paper 📑 "A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair" has been accepted to **JASE 2025**. Finally!
-- *2025.01.23*: &nbsp;🎉🎉 I am honored to receive the prestigious 🏆<a href='https://www2.sigsoft.org/awards/dissertation/'><strong style="color:#D20F39">ACM SIGSOFT 2025 Outstanding Dissertation Award</strong></a>! 
+- *2025.01.23*: &nbsp;🎉🎉 I am honored to receive the prestigious 🏆<a href='https://www2.sigsoft.org/awards/dissertation/'><strong style="color:#D20F39">ACM SIGSOFT 2025 Outstanding Dissertation Award</strong></a>! Only 1 or 2 award receivers worldwide per year 🎉
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/pdf/2408.13204'>DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation</a>" has been accepted to **AAAI 2025**. Congrats to Qiming!
-- *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/abs/2412.18216'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</a>" has been accepted to **AAAI 2025**. Congrats to Mengyang!
+- *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/abs/2412.18216'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</a>" has been accepted to **AAAI 2025**. Congrats to Mengyang! 
 
 # 🌍 Visiting Experience
 
@@ -45,7 +45,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 📚 <strong style="color:#06C0B9">Jialun Cao</strong>, Meiziniu Li, Ming Wen, Shing-chi Cheung. *A study on prompt design, advantages and limitations of chatgpt for deep learning program repair*. In Journal of Automated Software Engineering (**ASEJ**). 🔗[[paper]](https://arxiv.org/abs/2304.08191)
 
-📄 Xiao Chen, Hengcheng Zhu, <strong style="color:#06C0B9">**Jialun Cao (Corresponding)**</strong>, Ming Wen, Shing-Chi Cheung (Corresponding). *SemBIC: Semantic-aware Identification of Bug-inducing Commits*. In the ACM International Conference on the Foundations of Software Engineering (**FSE 2025**).
+📄 Xiao Chen, Hengcheng Zhu, <strong style="color:#06C0B9">**Jialun Cao (Corresponding)**</strong>, Ming Wen, Shing-Chi Cheung (Corresponding). *SemBIC: Semantic-aware Identification of Bug-inducing Commits*. In the ACM International Conference on the Foundations of Software Engineering (**FSE 2025**). 🔗[[paper]](https://scholar.henryhc.net/files/publications/2025/FSE2025-SemBIC.pdf)
 
 📄 Qiming Zhu, <strong style="color:#06C0B9">**Jialun Cao (Co-1st)**</strong>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung. _DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation._ In 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**). 🔗[[Paper]](https://arxiv.org/pdf/2408.13204) 🎯[[Leaderboard]](https://domaineval.github.io/leaderboard.html) 💻 [[Github]](https://github.com/domaineval/DomainEval) 
 
