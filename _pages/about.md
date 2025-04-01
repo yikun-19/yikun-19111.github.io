@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jialun CAO received her PhD degree from the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a>, under the supervision of <a href="https://www.cse.ust.hk/faculty/scc/">Prof. S.C. Cheung</a>. She is now a **Research Assistant Professor** in HKUST.
+Jialun CAO received her PhD degree from the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a>, under the supervision of <a href="https://www.cse.ust.hk/faculty/scc/">Prof. Shing-Chi Cheung</a>. She is now a **Research Assistant Professor** in HKUST.
 
 Her research interests lie in the intersection of <a>Software Engineering (SE) and Large Language Models (LLMs)</a>, with an emphasis on LLM4SE, and LLM Evaluation. She has published more than 20 papers at the top conferences and journals, including ICSE, FSE, ASE, TOSEM, CAV, Usenix Security, AAAI, etc. She serves as a program committee member in top conferences such as ICSE, FSE, and ASE, SANER, Internetware, APSEC, etc; and is a reviewer for top journals including TOSEM, TSE, EmSE, etc. 
 
@@ -142,7 +142,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 # 👩🏻‍💻 Working Experience
 - *2024.08 - now*, **Research Assistant Professor** at the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology
-- *2024.04 - 2024.07*, **Postdoctoral Fellow** at HKUST, working with <a href="https://www.cse.ust.hk/faculty/scc/">Prof. S.C. Cheung</a>
+- *2024.04 - 2024.07*, **Postdoctoral Fellow** at HKUST, working with <a href="https://www.cse.ust.hk/faculty/scc/">Prof. Shing-Chi Cheung</a>
 - *2023.07 - 2023.09*, **Intern** at huawei (Hong Kong) - Fermat Lab.
 - *2022.09 - 2023.01*, **Intern** at Huawei - Trusted Software Engineering and Open Source Laboratory.
 - *2021.09 - 2022.08*, **Intern** at Huawei - Theory Lab.
