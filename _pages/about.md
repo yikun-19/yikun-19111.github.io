@@ -114,7 +114,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 ### 2018
 
-📄 <strong style="color:#06C0B9">Jialun Cao</strong>, Yongjian Li, Jun Pang. _L-CMP: an automatic learning-based parameterized verification tool_. In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering (**ASE 2018**). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3238147.3240487) 💻 [[Github]](https://github.com/ArabelaTso/Learning-Based-ParaVerifer)  🎬 [[Video]](https://www.youtube.com/watch?v=6Dl2HiiiS4E&list=LL&index=8&t=1s&ab_channel=BellaTSO)
+📄 <strong style="color:#06C0B9">Jialun Cao</strong>, Yongjian Li, Jun Pang. _L-CMP: an automatic learning-based parameterized verification tool_. In Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering (**ASE 2018 Demo**). 🔗[[Paper]](https://dl.acm.org/doi/10.1145/3238147.3240487) 💻 [[Github]](https://github.com/ArabelaTso/Learning-Based-ParaVerifer)  🎬 [[Video]](https://www.youtube.com/watch?v=6Dl2HiiiS4E&list=LL&index=8&t=1s&ab_channel=BellaTSO)
 
 📄 Yongjian Li, <strong style="color:#06C0B9">Jialun Cao (1st student author)</strong>, Kaiqiang Duan. _An automatic parameterized verification of FLASH cache coherence protocol_. In 2018 IEEE International Conference on Software Quality, Reliability and Security (QRS 2018) 🔗[[Paper]](https://ieeexplore.ieee.org/abstract/document/8424956)
 
