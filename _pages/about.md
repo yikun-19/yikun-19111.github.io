@@ -118,10 +118,10 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 # 💯 Teaching
 
-- _2025 Spring_, **Instructor** in COMP 1021 - Introduction to Computer Science. _Course materials_ ↗️ [[Link]](https://github.com/ArabelaTso/COMP1021-2025S)
-- _2023 Fall_, **Teaching Assistant** in COMP1021 - Introduction to Computer Science.
-- _2020 Fall_, **Teaching Assistant** in COMP 3021 - Java Programming.
-- _2020 Spring_, **Teaching Assistant** in COMP 3021 - Java Programming.
+- _2025 Spring_, **Instructor** in [COMP 1021](https://course.cse.ust.hk/comp1021/) - Introduction to Computer Science. _Course materials_ ↗️ [[Link]](https://github.com/ArabelaTso/COMP1021-2025S)
+- _2023 Fall_, **Teaching Assistant** in [COMP 1021](https://course.cse.ust.hk/comp1021/) - Introduction to Computer Science.
+- _2020 Fall_, **Teaching Assistant** in [COMP 3021](https://course.cse.ust.hk/comp3021/) - Java Programming.
+- _2020 Spring_, **Teaching Assistant** in [COMP 3021](https://course.cse.ust.hk/comp3021/) - Java Programming.
 
 # 🎖 Honors and Awards
 - *2025* ACM SIGSOFT Outstanding Doctoral Dissertation Award (1 or 2 award receivers worldwide per year)
