@@ -31,7 +31,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/pdf/2408.13204'>DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation</a>" has been accepted to **AAAI 2025**. Congrats to Qiming!
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/abs/2412.18216'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</a>" has been accepted to **AAAI 2025**. Congrats to Mengyang! 
 
-# 🌍 Visiting Experience & Mentoring Program 
+# 🌍 Visiting & Program Experience 
 
 - *2024.12*. I am honored to be mentored by [**Prof. Paola Ricaurte Quijano**](https://cyber.harvard.edu/people/paola-ricaurte-quijano) at **Harvard University** in the 5th cohort of the [Asia Pacific Women in Leadership (APWiL) Mentoring Program](https://www.apru.org/our-work/pacific-rim-challenges/asia-pacific-women-in-leadership/).
 
