@@ -31,10 +31,12 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/pdf/2408.13204'>DomainEval: An Auto-Constructed Benchmark for Multi-Domain Code Generation</a>" has been accepted to **AAAI 2025**. Congrats to Qiming!
 - *2024.12.10*: &nbsp;🎉🎉 Our paper 📑 "<a href='https://arxiv.org/abs/2412.18216'>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</a>" has been accepted to **AAAI 2025**. Congrats to Mengyang! 
 
-# 🌍 Visiting Experience
+# 🌍 Visiting Experience & Mentoring Program 
 
-- *2024.10* I am honored to visit [**Prof. Michael Pradel**](https://software-lab.org/people/Michael_Pradel.html) at the University of Stuttgart.
-- *2024.03* I am honored to visit [**Prof. Pinjia He**](https://pinjiahe.github.io/) at the Chinese University of Hong Kong, Shenzhen.
+- *2024.12*. I am honored to be mentored by [**Prof. Paola Ricaurte Quijano**](https://cyber.harvard.edu/people/paola-ricaurte-quijano) at **Harvard University** in the 5th cohort of the [Asia Pacific Women in Leadership (APWiL) Mentoring Program](https://www.apru.org/our-work/pacific-rim-challenges/asia-pacific-women-in-leadership/).
+
+- *2024.10*. I am honored to visit [**Prof. Michael Pradel**](https://software-lab.org/people/Michael_Pradel.html) at the **University of Stuttgart**.
+- *2024.03*. I am honored to visit [**Prof. Pinjia He**](https://pinjiahe.github.io/) at the **Chinese University of Hong Kong, Shenzhen**.
 
 
 # 📝 Publications 
