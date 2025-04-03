@@ -1,4 +1,4 @@
----
+<img width="279" alt="image" src="https://github.com/user-attachments/assets/ea46890d-b42a-483c-a608-764c819215f2" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -129,12 +129,12 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 - _2020 Spring_, **Teaching Assistant** in [COMP 3021](https://course.cse.ust.hk/comp3021/) - Java Programming.
 
 # 🎖 Honors and Awards
-- *2025* ACM SIGSOFT Outstanding Doctoral Dissertation Award (1 or 2 award receivers worldwide per year)
-- *2024* Shortlisted Participant for the Rising Stars Women in Engineering Workshop at Asian Deans' Forum
-- *2024* Hong Kong Postgraduate Scholarship
-- *2024* ACM SIGSOFT CAPS Travel Grant (ASE 2024)
-- *2023* ACM SIGSOFT CAPS Travel Grant (ESEC/FSE 2023)
-- *2019 - 2023*: Huawei Fellowship Scholarship
+- *2025* [ACM SIGSOFT Outstanding Doctoral Dissertation Award](https://www2.sigsoft.org/awards/dissertation/) (Only 1~2 award receivers worldwide per year)
+- *2024* Shortlisted Participant for the [Rising Stars Women in Engineering Workshop at Asian Deans' Forum](https://risingstarsasia.org/index.php)
+- *2024* [Hong Kong Postgraduate Studentship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees)
+- *2024* [ACM SIGSOFT CAPS Travel Grant](https://www2.sigsoft.org/caps/capsmain/) (ASE 2024)
+- *2023* [ACM SIGSOFT CAPS Travel Grant](https://www2.sigsoft.org/caps/capsmain/) (ESEC/FSE 2023)
+- *2019 - 2023*: [Huawei Fellowship Scholarship](https://seng.hkust.edu.hk/academics/research-postgraduate/scholarships-studentships-awards)
 - *2017*: China National Scholarship (Postgraduate, Rank 1/106, Top 1%)
 - *2014*: China National Scholarship (Undergraduate, Rank 1/52, Top 2%)
 
