@@ -19,7 +19,7 @@ redirect_from:
 
 Jialun CAO received her PhD degree from the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a>, under the supervision of <a href="https://www.cse.ust.hk/faculty/scc/">Prof. Shing-Chi Cheung</a> in the [CASTLE](https://aka.henryhc.net/castle) lab. She is now a [**Research Assistant Professor**](https://cse.hkust.edu.hk/admin/people/faculty/profile/jialuncao) in HKUST.
 
-Her research interests lie in the intersection of <a>Software Engineering (SE) and Large Language Models (LLMs)</a>, with an emphasis on LLM4SE, and LLM Evaluation. She has published more than 20 papers at the top conferences and journals, including ICSE, FSE, ASE, TOSEM, CAV, Usenix Security, AAAI, etc. She serves as a program committee member in top conferences such as ICSE, FSE, and ASE, SANER, Internetware, APSEC, etc; and is a reviewer for top journals including TOSEM, TSE, EmSE, etc. 
+Her research interests lie in the intersection of <strong>Software Engineering (SE) and Large Language Models (LLMs)</strong>, with an emphasis on LLM4SE, and LLM Evaluation. She has published more than 20 papers at the top conferences and journals, including ICSE, FSE, ASE, TOSEM, CAV, Usenix Security, AAAI, etc. She serves as a program committee member in top conferences such as ICSE, FSE, and ASE, SANER, Internetware, APSEC, etc; and is a reviewer for top journals including TOSEM, TSE, EmSE, etc. 
 
 # 🔥 News
 - *2025.03.31*: &nbsp;🎉🎉 Our paper "[CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit](https://arxiv.org/abs/2411.10842)" has been accepted by **Internetware** 2025. Congrats!
@@ -45,7 +45,7 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 📄 <strong style="color:#06C0B9">Jialun Cao</strong>, Songqiang Chen, Wuqi Zhang, Hau Ching Lo, Shing-Chi Cheung. _CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit._ In Internetware 2025. 🔗[[Paper]](https://arxiv.org/abs/2411.10842) 💻 [[Github]](https://github.com/ArabelaTso/CodeCleaner-v1)
 
-📚 <strong style="color:#06C0B9">Jialun Cao</strong>, Meiziniu Li, Ming Wen, Shing-chi Cheung. *A study on prompt design, advantages and limitations of chatgpt for deep learning program repair*. In Journal of Automated Software Engineering (**ASEJ**). 🔗[[paper]](https://arxiv.org/abs/2304.08191)
+📚 <strong style="color:#06C0B9">Jialun Cao</strong>, Meiziniu Li, Ming Wen, Shing-chi Cheung. *A study on prompt design, advantages and limitations of chatgpt for deep learning program repair*. In Journal of Automated Software Engineering (**ASEJ**). 🔗[[arxiv]](https://arxiv.org/abs/2304.08191) 🔗[[Official]](https://link.springer.com/article/10.1007/s10515-025-00492-x)
 
 📄 Xiao Chen, Hengcheng Zhu, <strong style="color:#06C0B9">**Jialun Cao (Corresponding)**</strong>, Ming Wen, Shing-Chi Cheung (Corresponding). *SemBIC: Semantic-aware Identification of Bug-inducing Commits*. In the ACM International Conference on the Foundations of Software Engineering (**FSE 2025**). 🔗[[paper]](https://scholar.henryhc.net/files/publications/2025/FSE2025-SemBIC.pdf)
 
@@ -53,9 +53,9 @@ Her research interests lie in the intersection of <a>Software Engineering (SE) a
 
 📄 Mengyang Wu, Yuzhi Zhao, <strong style="color:#06C0B9">Jialun Cao</strong>, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu. _ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation._ In 39th Annual AAAI Conference on Artificial Intelligence (**AAAI 2025**). 🔗[[Paper]](https://arxiv.org/abs/2412.18216)
 
-📝 <strong style="color:#06C0B9">Jialun Cao</strong>, Yuk-Kit Chan*, Zixuan Ling*, Wenxuan Wang†, Shuqing Li, Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung. _How Should We Build A Benchmark? Revisiting 274 Code-Related Benchmarks For LLMs_. In arXiv 2025. 🔗[[Paper]](https://arxiv.org/pdf/2501.10711)
+📝 <strong style="color:#06C0B9">Jialun Cao</strong>, Yuk-Kit Chan*, Zixuan Ling*, Wenxuan Wang†, Shuqing Li, Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung. _How Should We Build A Benchmark? Revisiting 274 Code-Related Benchmarks For LLMs_. In arXiv 2025. 🔗[[Paper]](https://arxiv.org/pdf/2501.10711) 🇨🇳[[Chinese article]](https://mp.weixin.qq.com/s/noYYnJW3PHggxt0Wex-t-Q)
 
-📝 <strong style="color:#06C0B9">**Jialun Cao**</strong>, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian. _From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs_. In arXiv 2025. 🔗[[Paper]](https://arxiv.org/abs/2501.16207) 🤗 [[Huggingface]](https://huggingface.co/fm-universe)
+📝 <strong style="color:#06C0B9">**Jialun Cao**</strong>, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian. _From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs_. In arXiv 2025. 🔗[[Paper]](https://arxiv.org/abs/2501.16207) 🤗 [[Huggingface]](https://huggingface.co/fm-universe) 🇨🇳[[Chinese article]](https://mp.weixin.qq.com/s/oyhICTRo2fJL5MZkDrutXg)
 
 📝 <strong style="color:#06C0B9">**Jialun Cao**</strong>, Wuqi Zhang, Shing-Chi Cheung. _Concerned with Data Contamination? Assessing Countermeasures in Code Language Model_. In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2403.16898)
 
