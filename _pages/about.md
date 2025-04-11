@@ -59,6 +59,8 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 📝 <strong style="color:#06C0B9">**Jialun Cao**</strong>, Wuqi Zhang, Shing-Chi Cheung. _Concerned with Data Contamination? Assessing Countermeasures in Code Language Model_. In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2403.16898)
 
+📝 Jiarong Wu, Songqiang Chen, <strong style="color:#06C0B9">Jialun Cao (Corresponding)</strong>, Hau Ching Lo, Shing-Chi Cheung (Corresponding). _Isolating Language-Coding from Problem-Solving: Benchmarking LLMs with PseudoEval._ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2502.19149)
+
 📝 Meiziniu Li, Dongze Li, Jianmeng Liu, <strong style="color:#06C0B9">**Jialun Cao**</strong>, Yongqiang Tian, Shing-Chi Cheung. DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis. In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2406.07944)
 
 📝 Jingyi Chen, Songqiang Chen, <strong style="color:#06C0B9">Jialun Cao (Corresponding)</strong>, Jiasi Shen (Corresponding), Shing-Chi Cheung. _When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?_ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2503.15231)
