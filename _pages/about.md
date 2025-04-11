@@ -63,6 +63,11 @@ Her research interests lie in the intersection of <strong>Software Engineering (
 
 📝 Jingyi Chen, Songqiang Chen, <strong style="color:#06C0B9">Jialun Cao (Corresponding)</strong>, Jiasi Shen (Corresponding), Shing-Chi Cheung. _When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?_ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2503.15231)
 
+📝 Dekun Dai, MingWei Liu, Anji Li, <strong style="color:#06C0B9">**Jialun Cao**</strong>, Yanlin Wang, Chong Wang, Xin Peng, Zibin Zheng. _FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks._ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2504.06939)
+
+📝 Xiaolei Li, <strong style="color:#06C0B9">**Jialun Cao**</strong>, Yepang Liu, Shing-Chi Cheung, Hailong Wang. _ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback._ In arXiv. 🔗[[Paper]](https://arxiv.org/abs/2504.02357)
+
+
 ### 2024
 
 📄 <strong style="color:#06C0B9">Jialun Cao</strong>, Zhiyong Chen*, Jiarong Wu, Shing-chi Cheung, Chang Xu. _JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models_. In the 39th IEEE/ACM International Conference on Automated Software Engineering (**ASE 2024**). 🔗[[Paper]](https://arxiv.org/abs/2406.12902) 🎯[[Leaderboard]](https://java-bench.github.io/leaderboard.html) 💻 [[Github]](https://github.com/java-bench/JavaBench) 
